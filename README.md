@@ -13,7 +13,7 @@ A curated list of awesome frameworks, libraries, software and resources built us
 
 _(Add your project here! See Contributing section below)_
 
-*   **mcp-hike-and-fly**: A tool related to hike and fly activities, potentially integrating with Strava. ([Link](https://github.com/Arthemide/mcp-hike-and-fly))
+*   **[mcp-hike-and-fly](https://github.com/Arthemide/mcp-hike-and-fly)**: A tool related to hike and fly activities, potentially integrating with Strava.
 *   ... *(Add more projects alphabetically)*
 
 ## Contributing
